@@ -23,7 +23,7 @@ namespace Novels.Machine
 {
 	public partial class MainForm : Form
 	{
-		// Crawler Novels
+		// Crawler Novels //
 		#region 屬性、欄位、物件
 
 		private const string ApplicationName = "NovelsMachine";
