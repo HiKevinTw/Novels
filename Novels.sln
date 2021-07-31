@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novels.Service", "Novels.Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novels.Log", "Novels.Log\Novels.Log.csproj", "{DC4649C7-462A-4DCB-B951-5B626D968EFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAppender", "LogAppender\LogAppender.csproj", "{6E2A67A1-218C-4C0F-9D73-E3480267CAF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DC4649C7-462A-4DCB-B951-5B626D968EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC4649C7-462A-4DCB-B951-5B626D968EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC4649C7-462A-4DCB-B951-5B626D968EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2A67A1-218C-4C0F-9D73-E3480267CAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2A67A1-218C-4C0F-9D73-E3480267CAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2A67A1-218C-4C0F-9D73-E3480267CAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2A67A1-218C-4C0F-9D73-E3480267CAF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
